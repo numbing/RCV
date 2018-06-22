@@ -4,7 +4,8 @@ import Emergency from './emergency'
 import Messages from './messages'
 
 class Main extends Component{
-    markClick(markNumber) {
+    markClick = markNumber => {
+
       console.log(markNumber)
     }
     render(){
