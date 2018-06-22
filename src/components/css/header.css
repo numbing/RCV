@@ -6,11 +6,16 @@
     border: solid lightgray 1px;
     border-radius: 5px;
 }
-.navbar{
+
+.navbar {
     padding-left: 0px;
     padding-right: 0px;
 }
 
 .navbar-brand {
     font-weight: bold;
+}
+
+.logo {
+    width: 50px;
 }
