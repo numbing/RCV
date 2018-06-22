@@ -33,13 +33,9 @@
 
     flex-flow: row wrap;
 }
-.foooter .col a {
+.col a {
     display: block !important;
     color: white !important;
-}
-.footer .container {
-    max-width: 1010px;
-    margin-left: 455px;
 }
 .footer .contact {
     padding-left: 25px;

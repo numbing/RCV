@@ -10,7 +10,7 @@ class Main extends Component{
     }
     render(){
         return(
-            <div>
+            <div className="gradient-primary">
               <Map
                 googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyCCOyvijzxBB3EocKRr1aoncrfrPWrOvck&v=3.exp&libraries=geometry,drawing,places"
                 loadingElement={<div style={{ height: `100%` }} />}
@@ -20,7 +20,6 @@ class Main extends Component{
 
               />
                 <Emergency/>
-                <Messages/>
 
             </div>
         )
