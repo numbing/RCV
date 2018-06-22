@@ -1,0 +1,16 @@
+#password input {
+    margin-right: 20px;
+    text-align: center;
+    font-size: 12px;
+    border: none;
+    border: solid lightgray 1px;
+    border-radius: 5px;
+}
+.navbar{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
