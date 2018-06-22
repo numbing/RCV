@@ -8,7 +8,8 @@ class Header extends Component {
       <header>
         <nav className="navbar navbar-expand-lg navbar-light navbar-dark bg-dark">
           <a className="navbar-brand" href="#">
-            Navbar
+            <img src={Logo} alt="" style= {{height: '24px', paddingRight: '12px'}} />
+            <span>Refugees at home</span>
           </a>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon" />
