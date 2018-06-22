@@ -1,0 +1,22 @@
+"camps" : {
+    1 : {
+        "name": "Berlin-Neu-Hohenschönhausen",
+        "maxPeople" : 180,
+        "atmPeople" : 220,
+        "missingThings" : [
+            "Winter clothes",
+            "Baby food",
+            "Coffee"
+        ],
+        "missingPeople": [
+            "Plumbers"
+        ],
+        "lastUpdate" : "2018-06-18"
+    },
+    2 : {
+        
+    },
+    3 : {
+        
+    }
+}
