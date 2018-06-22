@@ -12,7 +12,7 @@ class Header extends Component {
                 <div className="row">
 
                     <div className="col">
-                        <img className="logo" src={Logo}/>
+                        <img className="logo1" src={Logo}/>
 
                         <nav className="navbar navbar-expand-lg navbar-light bg-light1">
 
