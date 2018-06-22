@@ -1,18 +1,17 @@
 import React, {Component} from 'react';
-import Data from './data';
 
 class Emergency extends Component {
-
-    render() {
-        console.log(Data)
-        return (
-            <div>
-
-                <div>emergency</div>
-
-            </div>
-        )
-    }
+  render() {
+    return (
+      <div className="container-fluid">
+        <div className="row">
+          <div className="col">
+            <h1>Camp name</h1>
+          </div>
+        </div>
+      </div>
+    );
+  }
 }
 
-export default Emergency
+export default Emergency;
